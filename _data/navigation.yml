@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "About"
+    url: /about/  
+  - title: "Tags"
+    url: /tags/
+  - title: "React"
+    url: /categories/React/
+  - title: "Categories"
+    url: /categories/
