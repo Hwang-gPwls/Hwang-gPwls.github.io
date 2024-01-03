@@ -1,7 +1,7 @@
 # Site settings
 title: hwang-gPwls
 description: "this site is my studyroom"
-baseurl: "/"
+baseurl: "https://Hwang-gPwls.github.io"
 url: "https://Hwang-gPwls.github.io"
 
 # Google Analytics
